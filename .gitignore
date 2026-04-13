@@ -33,3 +33,11 @@ venv/
 dist/
 build/
 *.egg-info/
+
+# Go artifacts
+bin/
+*.test
+*.out
+
+# Runtime output
+output/

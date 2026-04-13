@@ -1,0 +1,4 @@
+# Sample input URLs
+https://github.com
+https://example.com
+https://invalid.localdomain.invalid
