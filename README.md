@@ -52,7 +52,7 @@ MIT - see [LICENSE](LICENSE).
 └── go.mod
 ```
 
-## Usage
+## CLI Examples
 
 ### Check URLs from comma-separated list
 
